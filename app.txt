@@ -1,3 +1,7 @@
 Initial version
 Hello from the feature branch!
+<<<<<<< HEAD
 Main branch updated here.
+=======
+This is rebased line.
+>>>>>>> 8b6ffee (Add line in feature-rebase)
